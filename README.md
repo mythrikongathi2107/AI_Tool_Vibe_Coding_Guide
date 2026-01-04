@@ -1,11 +1,11 @@
 # AI_Tool_Vibe_Coding_Guide
-🚀 365 days of "Vibe Coding." One new AI tool every day. Documenting the shift from writing syntax to orchestrating software through natural language.
+🚀 365 days of "Vibe Coding." Documenting the shift from writing syntax to orchestrating software through natural language.
 
 # 🧠 AI Tool & Vibe Coding Guide (2026)
 
 > "Programming is no longer about syntax; it's about intent." 
 
-This is my 365-day journey into the world of **Vibe Coding**. I build one project every day using a new AI tool, documenting the "Master Prompts" and the logic behind the orchestration.
+This is my 365-day journey into the world of **Vibe Coding**. I will build projects using AI tools and document the "Master Prompts" and the logic behind the orchestration.
 
 ---
 
@@ -13,7 +13,7 @@ This is my 365-day journey into the world of **Vibe Coding**. I build one projec
 
 | Day | Tool | Project Repo | Vibe Check | Log |
 | :--- | :--- | :--- | :--- | :--- |
-| 001 | **Bolt.new** | [Resolution Radar](https://github.com/your-user/resolution-radar) | 🟢 Smooth | [View Log](./D001-Bolt-new.md) |
+| 001 | **Bolt.new** | [Resolution Radar](https://github.com/mythrikongathi2107/resolution-radar) | 🟢 Smooth | [View Log](./D001-Bolt-new.md) |
 | 002 | **v0.dev** | [Project Name] | 🟡 Learning | [View Log](./D002-v0-dev.md) |
 | 003 | **Windsurf** | [Project Name] | 🔴 Complex | [View Log](./D003-Windsurf.md) |
 
@@ -31,7 +31,7 @@ This is my 365-day journey into the world of **Vibe Coding**. I build one projec
 ## 📖 How to use this Guide
 Every day, I create a new dedicated repository for the project I build. This repo (the Guide) acts as the **Documentation Hub**. 
 
-Each day's log file contains:
+Log file contains:
 1. **The System Prompt:** How I set the AI's "personality."
 2. **The Vibe Prompt:** The natural language prompt that built the app.
 3. **The Debugging Journey:** How I fixed issues using only the AI chat.
